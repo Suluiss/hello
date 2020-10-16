@@ -15,11 +15,11 @@ body, html {height: 100%;}
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
-a {text-decoration: none; color: #333; border-bottom: 3px solid #0068FF;}
-a:hover {color: #0068FF}
+a {text-decoration: none; color: #333; border-bottom: 3px solid #ececec;}
+a:hover {color: #ececec}
 p {font-weight: 200; font-size: 20px;}
 
-.name {font-family: Montserrat; font-size: 65px; text-transform: uppercase; font-weight: 900; padding: 6px; border: 2px solid #0068FF; color: #0068FF; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
+.name {font-family: Montserrat; font-size: 65px; text-transform: uppercase; font-weight: 900; padding: 6px; border: 2px solid #ececec; color: #ececec; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
 
 .container {margin: 0 auto; width: 800px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
@@ -40,7 +40,7 @@ article::after {
   color: #0068FF;
   font-size: 44px;
 } */
-hr {border-bottom: 3px solid #0068FF;}
+hr {border-bottom: 3px solid #ececec;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
@@ -49,5 +49,5 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline-list li {display: inline-block;}
 
 footer .inline-list li {margin-right: 40px;}
-footer a {border: none; color: #0068FF;}
+footer a {border: none; color: #ececec;}
 footer {margin: 0 auto; position: absolute; bottom: 55%; right: -255px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(-90deg);}

@@ -24,10 +24,14 @@ p {font-weight: 200; font-size: 20px;}
 .container {margin: 0 auto; width: 800px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
 
-h2 {
-  position: static;
-  right: 50px;
-  bottom: 100px;
+<div class="w3-container">
+  <h2>Domains</h2>
+  <p>Prices are negotiable:</p>
+  <ul class="w3-ul">
+    <li>twittr</li>
+    <li>googlecloud</li>
+    <li>coinn</li>
+  </ul>
   
 }
 

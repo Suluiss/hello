@@ -26,8 +26,8 @@ article {padding: 60px;}
 
 h2 {
   position: absolute;
-  right: 300px;
-  bottom: 500px;
+  right: 100px;
+  bottom: 0px;
 }
 
 /* TODO find better cross-platform characters */

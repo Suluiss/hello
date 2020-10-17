@@ -24,7 +24,7 @@ p {font-weight: 200; font-size: 20px;}
 .container {margin: 0 auto; width: 800px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
 /* TODO find better cross-platform characters */
-/* article::before {
+  article::before {
   content: '\2601';
   position: relative;
   top: 0;

@@ -25,8 +25,9 @@ p {font-weight: 200; font-size: 20px;}
 article {padding: 60px;}
 
 h2 {
-  position: relative;
-  left: 100px;
+  position: absolute;
+  right: 300px;
+  bottom: 500px;
 }
 
 /* TODO find better cross-platform characters */
